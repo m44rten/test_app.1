@@ -1,4 +1,5 @@
 ActiveAdmin.register Tickets do
+  permit_params :ticket_title, :stamp, :email_customer, :tijd_gemeld
 
 # See permitted parameters documentation:
 # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
