@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticket_title: MyText
+  stamp: 2016-11-18 17:06:49
+  email_customer: MyString
+  tijd_gemeld: 2016-11-18 17:06:49
+
+two:
+  ticket_title: MyText
+  stamp: 2016-11-18 17:06:49
+  email_customer: MyString
+  tijd_gemeld: 2016-11-18 17:06:49
